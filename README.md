@@ -19,7 +19,7 @@ internal microcontrollers in selected tool environments.
 entrusted tasks in the field of preparation and commissioning of software using
 internal structure of microcontrollers in selected tool environments.
 ## Screenshots
-![Example screenshot](https://i.imgur.com/OTburEo.png)
+![Example screenshot](https://i.imgur.com/9RL6X2V.png)
 
 ## Technologies
 * AVR Insight [WinAVR] 
